@@ -9,6 +9,11 @@ This course is taught using a flipped classroom format similar to CMSE 201/801. 
 
 - [Syllabus](https://docs.google.com/document/d/e/2PACX-1vT9Wn11y0ECI_NAUl_2NA8V5jcD8dXKJkqUSWXjlawgqr2gU5hII3IsE0S8-CPd3W4xsWIlPAg2YW7D/pub)
 - [Schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vQRAm1mqJPQs1YSLPT9_41ABtywSV2f3EWPon9szguL6wvWqWsqaIzqkuHkSk7sea8ZIcIgZmkKJvwu/pubhtml?gid=2142090757&single=true)
-- [Assignments Git Repository](https://gitlab.msu.edu/colbrydi/cmse802-f20)
+- [Assignments Git Repository](https://gitlab.msu.edu/cmse802-f20/cmse802-f20)
 
 
+## Other Course Links
+
+- [Jupyter-Getting-Started-Guild](0000--Jupyter-Getting-Started-Guild.html)  ([ipynb](0000--Jupyter-Getting-Started-Guild.ipynb))
+- [Git Tutorial](0000-Getting-to-know-git.html)
+- [Example Project Videos from previous semesters](./Example_Student_Videos.mdExample_Student_Videos)
