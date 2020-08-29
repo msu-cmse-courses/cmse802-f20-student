@@ -15,6 +15,6 @@ This course is taught using a flipped classroom format similar to CMSE 201/801. 
 
 ## Other Course Links
 
-- [Jupyter-Getting-Started-Guild](0000--Jupyter-Getting-Started-Guild.html)  ([ipynb](0000--Jupyter-Getting-Started-Guild.ipynb))
+- [Jupyter-Getting-Started-Guide](0000--Jupyter-Getting-Started-Guide.html)  ([ipynb](0000--Jupyter-Getting-Started-Guide.ipynb))
 - [Git Tutorial](0000-Getting-to-know-git.html)
 - [Example Project Videos from previous semesters](./Example_Student_Videos)
