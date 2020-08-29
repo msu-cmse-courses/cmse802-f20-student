@@ -1,5 +1,5 @@
 ---
-# August 30, 2020
+# Monday, August 31, 2020
 
 ## Welcome to CMSE802
 
@@ -12,7 +12,7 @@ I am excited to be teaching CMSE802 this Fall and look forward to meeting all of
 
 We will be using Jupyter notebooks for quite a bit of our student/instructor communication. Please come to class with the latest version of Anaconda Python installed (Anaconda includes Jupyter). Instructions for installing and using Anaconda and Jupyter can be found here:
 
-- [0000--Jupyter-Getting-Started-Guide.html](https://msu-cmse-courses.github.io/cmse802-f20-student/0000--Jupyter-Getting-Started-Guild.html)
+- [0000--Jupyter-Getting-Started-Guide.html](https://msu-cmse-courses.github.io/cmse802-f20-student/0000--Jupyter-Getting-Started-Guide.html)
 
 This semester we will be teaching using a remote/synchronous teaching model. This means class will meet at the designated time on the schedule. During class, the instructor will also be broadcasting the lecture for you to log-in and participate remotely and the zoom session will also be recorded/edited and posted on-line for asynchronous review. Please use the following zoom url when attending class:
 
