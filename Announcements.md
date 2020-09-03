@@ -30,7 +30,7 @@ For next week, I would like everyone to work on the pre-class assignments.  Thes
 If you are confused by git (understandable because we haven't covered it yet) then you can just download the files directly using the following links:
 
 - [0907--AvsN-pre-class-assignment.ipynb](https://msu-cmse-courses.github.io/cmse802-f20-student/assets/notebooks/0907--AvsN-pre-class-assignment.ipynb)
-- [0909-Optimization-pre-class-assignment.ipynb](https://gitlab.msu.edu/cmse802-f20/cmse802-f20/-/blob/master/0909-Optimization-pre-class-assignment.ipynb)
+- [0909-Optimization-pre-class-assignment.ipynb](https://msu-cmse-courses.github.io/cmse802-f20-student/assets/notebooks/0909-Optimization-pre-class-assignment.ipynb)
 
 If you have any trouble I encourage you to join our _**#cmse802-F20**_ channel on the CMSE-courses slack group.  You should be able to join up by following this link:
 
