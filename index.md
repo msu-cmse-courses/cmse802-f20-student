@@ -7,7 +7,7 @@ This is a project-focused course with topics primarily driven by the research in
 
 This course is taught using a flipped classroom format similar to CMSE 201/801.  In a flipped classroom, students watch video lectures outside of class and then work individually and in groups to solve problems during class. Class examples and assignments will be done using the Python programming language.
 
-- [Announcements](Announcements)
+- [Announcements (including in-class videos)](Announcements)
 - [Syllabus](https://docs.google.com/document/d/e/2PACX-1vT9Wn11y0ECI_NAUl_2NA8V5jcD8dXKJkqUSWXjlawgqr2gU5hII3IsE0S8-CPd3W4xsWIlPAg2YW7D/pub)
 - [Schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vQRAm1mqJPQs1YSLPT9_41ABtywSV2f3EWPon9szguL6wvWqWsqaIzqkuHkSk7sea8ZIcIgZmkKJvwu/pubhtml?gid=2142090757&single=true)
 - [Assignments Git Repository](https://gitlab.msu.edu/cmse802-f20/cmse802-f20)
