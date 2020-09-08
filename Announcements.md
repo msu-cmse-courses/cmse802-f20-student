@@ -1,5 +1,58 @@
 ----
 
+# Tuesday, September 8, 2020
+
+Hello CMSE802 students,
+
+I think the second day of class went well.  Unfortunately, zoom was being helpful and recorded all of the student videos along side my own. I mistakenly tried a new option and I did not realize it broke my settings.  I went though and edited the video but some of the words are cut off.  I also left in first names, I figure that first names and no faces should not be a problem but please let me know if you are uncomfortable with this and I will fix it.  
+
+[Here is the edited video](https://youtu.be/Ov2YE0hhUAU)
+
+
+
+
+
+<iframe
+    width="640"
+    height="360"
+    src="https://www.youtube.com/embed/Ov2YE0hhUAU?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+Here is a link to the course pre-class Google slides document I plan to use all semester. Please bookmark this for future reference:
+
+https://docs.google.com/presentation/d/1Xh4zeM47QcFWeB2gB_QNdGerItHFLerdX5x_mF00pqw/edit#slide=id.p
+
+At the end of class we also did an example simple wave equation model.  We will cover this again later in the semester but I remembered to hit record so here is me talking a bit about this model.
+
+[Link to Wave Equation Example](https://youtu.be/3qig74rsz4Q)
+
+
+
+
+
+
+<iframe
+    width="640"
+    height="360"
+    src="https://www.youtube.com/embed/3qig74rsz4Q?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+Let me know if you have any comments, questions or concerns.
+
+- Dirk
+
+----
+
 # Thursday, September 3, 2020
 
 # First pre-class assignment
@@ -69,3 +122,9 @@ If you have any questions about CMSE802, please do not hesitate to contact your 
 Take care,
 
 - Dr. Dirk Colbry
+
+    [NbConvertApp] Converting notebook Announcements.ipynb to MarkDown
+    [NbConvertApp] Writing 5498 bytes to Announcements.md
+
+
+----
