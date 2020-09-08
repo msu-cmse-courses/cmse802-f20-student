@@ -25,7 +25,7 @@ I think the second day of class went well.  Unfortunately, zoom was being helpfu
 
 Here is a link to the course pre-class Google slides document I plan to use all semester. Please bookmark this for future reference:
 
-https://docs.google.com/presentation/d/1Xh4zeM47QcFWeB2gB_QNdGerItHFLerdX5x_mF00pqw/edit#slide=id.p
+[Google Slides](https://docs.google.com/presentation/d/1Xh4zeM47QcFWeB2gB_QNdGerItHFLerdX5x_mF00pqw/edit#slide=id.p)
 
 At the end of class we also did an example simple wave equation model.  We will cover this again later in the semester but I remembered to hit record so here is me talking a bit about this model.
 
@@ -124,7 +124,16 @@ Take care,
 - Dr. Dirk Colbry
 
     [NbConvertApp] Converting notebook Announcements.ipynb to MarkDown
-    [NbConvertApp] Writing 5498 bytes to Announcements.md
+    [NbConvertApp] Support files will be in Announcements_files/
+    [NbConvertApp] Making directory Announcements_files
+    [NbConvertApp] Writing 5629 bytes to Announcements.md
 
+
+    ‘Announcements.md’ -> ‘./cmse802-f20-student/Announcements.md’
+
+
+    # On branch master
+    nothing to commit, working directory clean
+    Enter passphrase for key '/home/colbrydi/.ssh/id_rsa': 
 
 ----
