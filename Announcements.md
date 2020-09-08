@@ -78,4 +78,11 @@ Take care,
 
 - Dr. Dirk Colbry
 
+    [NbConvertApp] Converting notebook Announcements.ipynb to MarkDown
+    [NbConvertApp] Writing 4999 bytes to Announcements.md
+
+
+    ‘Announcements.md’ -> ‘./cmse802-f20-student/Announcements.md’
+
+
 ----
