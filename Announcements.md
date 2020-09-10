@@ -17,8 +17,8 @@ As a reference, here are some videos from class today. I split them up into bite
 
 
 <iframe
-    width="640"
-    height="360"
+    width="400"
+    height="300"
     src="https://www.youtube.com/embed/_IpjoiQv-ok?cc_load_policy=True"
     frameborder="0"
     allowfullscreen
@@ -61,7 +61,7 @@ As a reference, here are some videos from class today. I split them up into bite
 
 
 
-& [Git Branching Practice](https://youtu.be/JBN4QP7e078)
+* [Git Branching Practice](https://youtu.be/JBN4QP7e078)
 
 
 
@@ -128,6 +128,21 @@ I think the second day of class went well.  Unfortunately, zoom was being helpfu
 
 [Here is the edited video](https://youtu.be/Ov2YE0hhUAU)
 
+
+
+
+
+<iframe
+    width="640"
+    height="360"
+    src="https://www.youtube.com/embed/Ov2YE0hhUAU?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
 Here is a link to the course pre-class Google slides document I plan to use all semester. Please bookmark this for future reference:
 
 [Google Slides](https://docs.google.com/presentation/d/1Xh4zeM47QcFWeB2gB_QNdGerItHFLerdX5x_mF00pqw/edit#slide=id.p)
@@ -135,6 +150,21 @@ Here is a link to the course pre-class Google slides document I plan to use all 
 At the end of class we also did an example simple wave equation model.  We will cover this again later in the semester but I remembered to hit record so here is me talking a bit about this model.
 
 [Link to Wave Equation Example](https://youtu.be/3qig74rsz4Q)
+
+
+
+
+
+
+<iframe
+    width="640"
+    height="360"
+    src="https://www.youtube.com/embed/3qig74rsz4Q?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
 
 
 Let me know if you have any comments, questions or concerns.
@@ -152,6 +182,21 @@ Hello CMSE802 students,
 Thank you for your patience working with me to get the kinks out of this online course.  I hope you are at least starting to get a feeling for what is expected for the semester.  Do not worry if things are still a little confusing. We have plenty of time to figure out how to get the most out of the experience.  If you were not able to make it to class today here is a video to what we covered:
 
 [Link to Sept 3, 2020 class video](https://youtu.be/aO8UZJ3c_20)
+
+
+
+
+
+<iframe
+    width="640"
+    height="360"
+    src="https://www.youtube.com/embed/aO8UZJ3c_20?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
 
 For next week, I would like everyone to work on the pre-class assignments.  These assignments have been uploaded into the course git repository.  Normally I would have you all just issue a "git pull" command but you haven't learned that command yet.  You could just give it a try. Another option is you could try just deleting the folder we downloaded during class and do a "git clone" again.  Try that too.
 
