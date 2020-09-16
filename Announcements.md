@@ -1,5 +1,64 @@
 ----
 
+# Tuesday, Septebmer 15, 2020
+
+Hello CMSE802 students,
+
+Here are the videos from class today:
+
+- [In-class and pre-class review video](https://youtu.be/EWGqSZv8pBQ)
+
+
+
+
+
+<iframe
+    width="400"
+    height="300"
+    src="https://www.youtube.com/embed/EWGqSZv8pBQ?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+* [Over the shoulder debugging](https://youtu.be/z1yFdrt_wjA)
+
+
+
+
+
+<iframe
+    width="400"
+    height="300"
+    src="https://www.youtube.com/embed/z1yFdrt_wjA?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+- [Pip and Conda installs](https://youtu.be/OMdMzsbsY3Q)
+
+
+
+
+
+<iframe
+    width="400"
+    height="300"
+    src="https://www.youtube.com/embed/OMdMzsbsY3Q?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+----
+
 # Thursday, September 10, 2020
 
 Hello CMSE802 students,
@@ -34,8 +93,8 @@ As a reference, here are some videos from class today. I split them up into bite
 
 
 <iframe
-    width="640"
-    height="360"
+    width="400"
+    height="300"
     src="https://www.youtube.com/embed/eWnbGTdy7MU?cc_load_policy=True"
     frameborder="0"
     allowfullscreen
@@ -51,8 +110,8 @@ As a reference, here are some videos from class today. I split them up into bite
 
 
 <iframe
-    width="640"
-    height="360"
+    width="400"
+    height="300"
     src="https://www.youtube.com/embed/INC7TntCkdU?cc_load_policy=True"
     frameborder="0"
     allowfullscreen
@@ -68,8 +127,8 @@ As a reference, here are some videos from class today. I split them up into bite
 
 
 <iframe
-    width="640"
-    height="360"
+    width="400"
+    height="300"
     src="https://www.youtube.com/embed/JBN4QP7e078?cc_load_policy=True"
     frameborder="0"
     allowfullscreen
@@ -85,8 +144,8 @@ As a reference, here are some videos from class today. I split them up into bite
 
 
 <iframe
-    width="640"
-    height="360"
+    width="400"
+    height="300"
     src="https://www.youtube.com/embed/yFjXRHAL8C4?cc_load_policy=True"
     frameborder="0"
     allowfullscreen
@@ -102,8 +161,8 @@ As a reference, here are some videos from class today. I split them up into bite
 
 
 <iframe
-    width="640"
-    height="360"
+    width="400"
+    height="300"
     src="https://www.youtube.com/embed/8o8lDI6On14?cc_load_policy=True"
     frameborder="0"
     allowfullscreen
@@ -133,8 +192,8 @@ I think the second day of class went well.  Unfortunately, zoom was being helpfu
 
 
 <iframe
-    width="640"
-    height="360"
+    width="400"
+    height="300"
     src="https://www.youtube.com/embed/Ov2YE0hhUAU?cc_load_policy=True"
     frameborder="0"
     allowfullscreen
@@ -157,8 +216,8 @@ At the end of class we also did an example simple wave equation model.  We will 
 
 
 <iframe
-    width="640"
-    height="360"
+    width="400"
+    height="300"
     src="https://www.youtube.com/embed/3qig74rsz4Q?cc_load_policy=True"
     frameborder="0"
     allowfullscreen
@@ -188,8 +247,8 @@ Thank you for your patience working with me to get the kinks out of this online 
 
 
 <iframe
-    width="640"
-    height="360"
+    width="400"
+    height="300"
     src="https://www.youtube.com/embed/aO8UZJ3c_20?cc_load_policy=True"
     frameborder="0"
     allowfullscreen
