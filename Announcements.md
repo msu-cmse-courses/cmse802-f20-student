@@ -1,6 +1,43 @@
 ----
 
-# Tuesday, Septebmer 15, 2020
+# Thursday, September 14, 2020
+
+Hello CMSE802 students,
+
+Remember that your Optimization reports are due to be pushed to your git repository tomorrow.
+
+I just finished posted assignments for class next week.  I ended up cutting quite a bit of my own debugging.  The following are just the parts on LSF.  
+
+- [In-Class Least Squares Fit](https://youtu.be/dbNziQaM_lI)
+
+
+
+
+
+<iframe
+    width="640"
+    height="360"
+    src="https://www.youtube.com/embed/dbNziQaM_lI?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+I spent quite a bit of time trying to get conda environments working in jupytehrub.  Unfortunately, this was a lot harder than I had hoped.  I managed to create a default environment but as soon as I installed ```numpy``` it broke. I did a lot of Googling and our problem seems to be unique.  I think something is wrong with how jupyterhub is set up and I will need to talk to the system administrators to track down and fix the problem.  
+
+For now, please figure out how to use environments on your local machine.  Let me know if you have problems and I can work with you to find a fix or a work around.  
+
+Please let me know if you have any comments, questions or concerns.
+
+Take care and have a wonderful weekend.
+
+- Dirk
+
+----
+
+# Tuesday, September 15, 2020
 
 Hello CMSE802 students,
 
@@ -8,54 +45,9 @@ Here are the videos from class today:
 
 - [In-class and pre-class review video](https://youtu.be/EWGqSZv8pBQ)
 
-
-
-
-
-<iframe
-    width="400"
-    height="300"
-    src="https://www.youtube.com/embed/EWGqSZv8pBQ?cc_load_policy=True"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
-
-
-
 * [Over the shoulder debugging](https://youtu.be/z1yFdrt_wjA)
 
-
-
-
-
-<iframe
-    width="400"
-    height="300"
-    src="https://www.youtube.com/embed/z1yFdrt_wjA?cc_load_policy=True"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
-
-
-
 - [Pip and Conda installs](https://youtu.be/OMdMzsbsY3Q)
-
-
-
-
-
-<iframe
-    width="400"
-    height="300"
-    src="https://www.youtube.com/embed/OMdMzsbsY3Q?cc_load_policy=True"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
-
-
 
 ----
 
@@ -71,105 +63,15 @@ As a reference, here are some videos from class today. I split them up into bite
 
 * [Expert Code](https://youtu.be/_IpjoiQv-ok)
 
-
-
-
-
-<iframe
-    width="400"
-    height="300"
-    src="https://www.youtube.com/embed/_IpjoiQv-ok?cc_load_policy=True"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
-
-
-
 * [Example Code](https://youtu.be/eWnbGTdy7MU)
-
-
-
-
-
-<iframe
-    width="400"
-    height="300"
-    src="https://www.youtube.com/embed/eWnbGTdy7MU?cc_load_policy=True"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
-
-
 
 * [Pre-Class Review](https://youtu.be/INC7TntCkdU)
 
-
-
-
-
-<iframe
-    width="400"
-    height="300"
-    src="https://www.youtube.com/embed/INC7TntCkdU?cc_load_policy=True"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
-
-
-
 * [Git Branching Practice](https://youtu.be/JBN4QP7e078)
-
-
-
-
-
-<iframe
-    width="400"
-    height="300"
-    src="https://www.youtube.com/embed/JBN4QP7e078?cc_load_policy=True"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
-
-
 
 * [Git Init Project Milestone](https://youtu.be/yFjXRHAL8C4)
 
-
-
-
-
-<iframe
-    width="400"
-    height="300"
-    src="https://www.youtube.com/embed/yFjXRHAL8C4?cc_load_policy=True"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
-
-
-
 * [In-Class Assignment](https://youtu.be/8o8lDI6On14)
-
-
-
-
-
-<iframe
-    width="400"
-    height="300"
-    src="https://www.youtube.com/embed/8o8lDI6On14?cc_load_policy=True"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
-
-
 
 I also pushed all of next weeks assignments so feel free to get started when you have time in your schedule. Have a wonderful weekend and see all of you on Tuesday.
 
@@ -187,21 +89,6 @@ I think the second day of class went well.  Unfortunately, zoom was being helpfu
 
 [Here is the edited video](https://youtu.be/Ov2YE0hhUAU)
 
-
-
-
-
-<iframe
-    width="400"
-    height="300"
-    src="https://www.youtube.com/embed/Ov2YE0hhUAU?cc_load_policy=True"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
-
-
-
 Here is a link to the course pre-class Google slides document I plan to use all semester. Please bookmark this for future reference:
 
 [Google Slides](https://docs.google.com/presentation/d/1Xh4zeM47QcFWeB2gB_QNdGerItHFLerdX5x_mF00pqw/edit#slide=id.p)
@@ -209,21 +96,6 @@ Here is a link to the course pre-class Google slides document I plan to use all 
 At the end of class we also did an example simple wave equation model.  We will cover this again later in the semester but I remembered to hit record so here is me talking a bit about this model.
 
 [Link to Wave Equation Example](https://youtu.be/3qig74rsz4Q)
-
-
-
-
-
-
-<iframe
-    width="400"
-    height="300"
-    src="https://www.youtube.com/embed/3qig74rsz4Q?cc_load_policy=True"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
-
 
 
 Let me know if you have any comments, questions or concerns.
@@ -241,21 +113,6 @@ Hello CMSE802 students,
 Thank you for your patience working with me to get the kinks out of this online course.  I hope you are at least starting to get a feeling for what is expected for the semester.  Do not worry if things are still a little confusing. We have plenty of time to figure out how to get the most out of the experience.  If you were not able to make it to class today here is a video to what we covered:
 
 [Link to Sept 3, 2020 class video](https://youtu.be/aO8UZJ3c_20)
-
-
-
-
-
-<iframe
-    width="400"
-    height="300"
-    src="https://www.youtube.com/embed/aO8UZJ3c_20?cc_load_policy=True"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
-
-
 
 For next week, I would like everyone to work on the pre-class assignments.  These assignments have been uploaded into the course git repository.  Normally I would have you all just issue a "git pull" command but you haven't learned that command yet.  You could just give it a try. Another option is you could try just deleting the folder we downloaded during class and do a "git clone" again.  Try that too.
 
