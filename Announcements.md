@@ -1,5 +1,70 @@
 ----
 
+# Tuesday, September 22, 2020
+
+Hello CMSE802 students,
+
+I thought today's class went well. I like more hands on practice and less me talking at my computer.  Here are the videos from today for your reference:
+
+* [in-class](https://youtu.be/qsuL8ad2cYo)
+
+
+
+
+
+<iframe
+    width="640"
+    height="360"
+    src="https://www.youtube.com/embed/qsuL8ad2cYo?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+* [Pre-class review](https://youtu.be/Bgtu7PgLWfw)
+
+
+
+
+
+<iframe
+    width="640"
+    height="360"
+    src="https://www.youtube.com/embed/Bgtu7PgLWfw?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+* [Windowing and Graphing practice](https://youtu.be/2bTHhq-U_L0)
+
+
+
+
+
+<iframe
+    width="640"
+    height="360"
+    src="https://www.youtube.com/embed/2bTHhq-U_L0?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+Remember your project proposals are do at the end of the week.  
+
+See you on Thursdays,
+
+- Dirk
+
+----
+
 # Thursday, September 14, 2020
 
 Hello CMSE802 students,
