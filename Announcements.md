@@ -1,3 +1,4 @@
+
 ----
 
 # Tuesday, September 22, 2020
@@ -12,14 +13,14 @@ I thought today's class went well. I like more hands on practice and less me tal
 
 
 
-<iframe
-    width="640"
-    height="360"
-    src="https://www.youtube.com/embed/qsuL8ad2cYo?cc_load_policy=True"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
+        <iframe
+            width="640"
+            height="360"
+            src="https://www.youtube.com/embed/qsuL8ad2cYo?cc_load_policy=True"
+            frameborder="0"
+            allowfullscreen
+        ></iframe>
+        
 
 
 
@@ -29,14 +30,14 @@ I thought today's class went well. I like more hands on practice and less me tal
 
 
 
-<iframe
-    width="640"
-    height="360"
-    src="https://www.youtube.com/embed/Bgtu7PgLWfw?cc_load_policy=True"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
+        <iframe
+            width="640"
+            height="360"
+            src="https://www.youtube.com/embed/Bgtu7PgLWfw?cc_load_policy=True"
+            frameborder="0"
+            allowfullscreen
+        ></iframe>
+        
 
 
 
@@ -46,14 +47,14 @@ I thought today's class went well. I like more hands on practice and less me tal
 
 
 
-<iframe
-    width="640"
-    height="360"
-    src="https://www.youtube.com/embed/2bTHhq-U_L0?cc_load_policy=True"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
+        <iframe
+            width="640"
+            height="360"
+            src="https://www.youtube.com/embed/2bTHhq-U_L0?cc_load_policy=True"
+            frameborder="0"
+            allowfullscreen
+        ></iframe>
+        
 
 
 
@@ -79,14 +80,14 @@ I just finished posted assignments for class next week.  I ended up cutting quit
 
 
 
-<iframe
-    width="640"
-    height="360"
-    src="https://www.youtube.com/embed/dbNziQaM_lI?cc_load_policy=True"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
+        <iframe
+            width="640"
+            height="360"
+            src="https://www.youtube.com/embed/dbNziQaM_lI?cc_load_policy=True"
+            frameborder="0"
+            allowfullscreen
+        ></iframe>
+        
 
 
 
@@ -114,14 +115,14 @@ Here are the videos from class today:
 
 
 
-<iframe
-    width="640"
-    height="360"
-    src="https://www.youtube.com/embed/EWGqSZv8pBQ?cc_load_policy=True"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
+        <iframe
+            width="640"
+            height="360"
+            src="https://www.youtube.com/embed/EWGqSZv8pBQ?cc_load_policy=True"
+            frameborder="0"
+            allowfullscreen
+        ></iframe>
+        
 
 
 
@@ -131,14 +132,14 @@ Here are the videos from class today:
 
 
 
-<iframe
-    width="640"
-    height="360"
-    src="https://www.youtube.com/embed/z1yFdrt_wjA?cc_load_policy=True"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
+        <iframe
+            width="640"
+            height="360"
+            src="https://www.youtube.com/embed/z1yFdrt_wjA?cc_load_policy=True"
+            frameborder="0"
+            allowfullscreen
+        ></iframe>
+        
 
 
 
@@ -148,14 +149,14 @@ Here are the videos from class today:
 
 
 
-<iframe
-    width="640"
-    height="360"
-    src="https://www.youtube.com/embed/OMdMzsbsY3Q?cc_load_policy=True"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
+        <iframe
+            width="640"
+            height="360"
+            src="https://www.youtube.com/embed/OMdMzsbsY3Q?cc_load_policy=True"
+            frameborder="0"
+            allowfullscreen
+        ></iframe>
+        
 
 
 
@@ -177,14 +178,14 @@ As a reference, here are some videos from class today. I split them up into bite
 
 
 
-<iframe
-    width="640"
-    height="360"
-    src="https://www.youtube.com/embed/_IpjoiQv-ok?cc_load_policy=True"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
+        <iframe
+            width="640"
+            height="360"
+            src="https://www.youtube.com/embed/_IpjoiQv-ok?cc_load_policy=True"
+            frameborder="0"
+            allowfullscreen
+        ></iframe>
+        
 
 
 
@@ -194,14 +195,14 @@ As a reference, here are some videos from class today. I split them up into bite
 
 
 
-<iframe
-    width="640"
-    height="360"
-    src="https://www.youtube.com/embed/eWnbGTdy7MU?cc_load_policy=True"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
+        <iframe
+            width="640"
+            height="360"
+            src="https://www.youtube.com/embed/eWnbGTdy7MU?cc_load_policy=True"
+            frameborder="0"
+            allowfullscreen
+        ></iframe>
+        
 
 
 
@@ -211,14 +212,14 @@ As a reference, here are some videos from class today. I split them up into bite
 
 
 
-<iframe
-    width="640"
-    height="360"
-    src="https://www.youtube.com/embed/INC7TntCkdU?cc_load_policy=True"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
+        <iframe
+            width="640"
+            height="360"
+            src="https://www.youtube.com/embed/INC7TntCkdU?cc_load_policy=True"
+            frameborder="0"
+            allowfullscreen
+        ></iframe>
+        
 
 
 
@@ -228,14 +229,14 @@ As a reference, here are some videos from class today. I split them up into bite
 
 
 
-<iframe
-    width="640"
-    height="360"
-    src="https://www.youtube.com/embed/JBN4QP7e078?cc_load_policy=True"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
+        <iframe
+            width="640"
+            height="360"
+            src="https://www.youtube.com/embed/JBN4QP7e078?cc_load_policy=True"
+            frameborder="0"
+            allowfullscreen
+        ></iframe>
+        
 
 
 
@@ -245,14 +246,14 @@ As a reference, here are some videos from class today. I split them up into bite
 
 
 
-<iframe
-    width="640"
-    height="360"
-    src="https://www.youtube.com/embed/yFjXRHAL8C4?cc_load_policy=True"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
+        <iframe
+            width="640"
+            height="360"
+            src="https://www.youtube.com/embed/yFjXRHAL8C4?cc_load_policy=True"
+            frameborder="0"
+            allowfullscreen
+        ></iframe>
+        
 
 
 
@@ -262,14 +263,14 @@ As a reference, here are some videos from class today. I split them up into bite
 
 
 
-<iframe
-    width="640"
-    height="360"
-    src="https://www.youtube.com/embed/8o8lDI6On14?cc_load_policy=True"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
+        <iframe
+            width="640"
+            height="360"
+            src="https://www.youtube.com/embed/8o8lDI6On14?cc_load_policy=True"
+            frameborder="0"
+            allowfullscreen
+        ></iframe>
+        
 
 
 
@@ -293,14 +294,14 @@ I think the second day of class went well.  Unfortunately, zoom was being helpfu
 
 
 
-<iframe
-    width="640"
-    height="360"
-    src="https://www.youtube.com/embed/Ov2YE0hhUAU?cc_load_policy=True"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
+        <iframe
+            width="640"
+            height="360"
+            src="https://www.youtube.com/embed/Ov2YE0hhUAU?cc_load_policy=True"
+            frameborder="0"
+            allowfullscreen
+        ></iframe>
+        
 
 
 
@@ -317,14 +318,14 @@ At the end of class we also did an example simple wave equation model.  We will 
 
 
 
-<iframe
-    width="640"
-    height="360"
-    src="https://www.youtube.com/embed/3qig74rsz4Q?cc_load_policy=True"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
+        <iframe
+            width="640"
+            height="360"
+            src="https://www.youtube.com/embed/3qig74rsz4Q?cc_load_policy=True"
+            frameborder="0"
+            allowfullscreen
+        ></iframe>
+        
 
 
 
@@ -348,14 +349,14 @@ Thank you for your patience working with me to get the kinks out of this online 
 
 
 
-<iframe
-    width="640"
-    height="360"
-    src="https://www.youtube.com/embed/aO8UZJ3c_20?cc_load_policy=True"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
+        <iframe
+            width="640"
+            height="360"
+            src="https://www.youtube.com/embed/aO8UZJ3c_20?cc_load_policy=True"
+            frameborder="0"
+            allowfullscreen
+        ></iframe>
+        
 
 
 
