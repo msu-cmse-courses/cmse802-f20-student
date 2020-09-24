@@ -1,4 +1,71 @@
 
+-----
+
+# Thursday, September 24, 2020
+
+Hello CMSE802 Students,
+
+I just posted the pre-class and in-class assignments for next week.  I also posted a PREVIEW assignment that I was planning for the middle of November.  This PREVIEW includes some more videos about the HPCC and how to get Anaconda installed to work with the new Jupyter OnDemand interface.   It would be great if some/all of you give it a try and get back to me.  I know we can get it working but I may need to practice debugging it with some of you. 
+
+The videos from class are now are posted on the website and are linked to here. Sorry that these are much longer than usual. I had a harder time splitting up the topics:
+
+- [HPCC Tour](https://youtu.be/Uz00tPOlSAQ)
+
+
+
+
+
+        <iframe
+            width="640"
+            height="360"
+            src="https://www.youtube.com/embed/Uz00tPOlSAQ?cc_load_policy=True"
+            frameborder="0"
+            allowfullscreen
+        ></iframe>
+        
+
+
+
+- [Faster Python](https://youtu.be/UE2ImIpnzHQ)
+
+
+
+
+
+        <iframe
+            width="640"
+            height="360"
+            src="https://www.youtube.com/embed/UE2ImIpnzHQ?cc_load_policy=True"
+            frameborder="0"
+            allowfullscreen
+        ></iframe>
+        
+
+
+
+Take care and have a wonderful weekend.
+
+- Dirk
+
+----
+
+# Wednesday, September 23, 2020
+
+Dear CMSE802 students,
+
+The engineering jupyterhub server has been getting much higher user load this semester and many students are reporting problems.  In response, the Department of Engineering Computer Services (DECS) has put together a new jupyterhub server which should be much more responsive.   Since a major learning goal in this course is “testing” and “debugging”  I volunteered our class to beta-test this new server.  From now on, please use the following URL if you need to log into jupyterhub:
+
+http://jupyterhub2.egr.msu.edu 
+
+Since this is a new system, there is a possibility that some things are broken.  Please let DECS and me know as soon as you see any problems by emailing jupyterhub@egr.msu.edu and cc me at colbrydi@msu.edu.   We can still always move back to the old server if you need to get some work done.  
+
+Let me know if you have any other comments, questions or concerns.
+
+Take care, 
+
+- Dirk
+
+
 ----
 
 # Tuesday, September 22, 2020
